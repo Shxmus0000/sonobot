@@ -1,0 +1,22 @@
+{
+  "name": "sonobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dayjs": "^1.11.18",
+    "discord.js": "^14.22.1",
+    "dotenv": "^17.2.2",
+    "mineflayer": "^4.32.0",
+    "node-cron": "^4.2.1",
+    "prismarine-auth": "^2.7.0",
+    "sqlite3": "^5.1.7"
+  }
+}
